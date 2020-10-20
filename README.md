@@ -6,4 +6,5 @@ The notebokook `asSN.ipynb` contains a `python` + `numba` implementation of the 
 
 ## Run the code
 You can either download this repository and run the code locally, or you can use Google Colab and simply click on the badge below.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camminady/asSN/blob/main/asSN.ipynb)
